@@ -168,11 +168,6 @@ The User Panel is accessible to the  panel user and includes:
 
 ---
 
-
-
-
-
-
 ### Edit Profile
 Users and Admin have similar profile-editing options as including photo management.
 
